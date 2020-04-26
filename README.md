@@ -1,5 +1,5 @@
 # proBuilderTestObject
 
-<img src="images/1st.png" >
+<img src="Images/1st.png" >
 
-<img src="images/2nd.png" >
+<img src="Images/2nd.png" >
